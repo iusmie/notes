@@ -19,5 +19,5 @@
   * 环境搭建
      有两种，都配置好，后面比较
      1. 使用sublime Text 3，工具很强大。配置文档参见：http://www.jianshu.com/p/2ddfff095e90
-     2. 使用官方指定的开发工具，需要依赖ATOM，但是据说性能不是特别好。配置文档参见：http://hahack.com/codes/learn-react-native-for-android-01/
+     2. 使用官方指定的开发工具，需要依赖ATOM，但是如果插件安装太多性能不是很好，建议只install需要的即可。配置文档参见：http://hahack.com/codes/learn-react-native-for-android-01/
 * node.js
