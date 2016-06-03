@@ -21,3 +21,15 @@
      1. 使用sublime Text 3，工具很强大。配置文档参见：http://www.jianshu.com/p/2ddfff095e90
      2. 使用官方指定的开发工具，需要依赖ATOM，但是如果插件安装太多性能不是很好，建议只install需要的即可。配置文档参见：http://hahack.com/codes/learn-react-native-for-android-01/
 * node.js
+* 
+
+### 工具使用
+* HomeBrew 
+  * brew install mysql
+  ```JAVA
+  Error: SHA256 mismatch
+Expected: 147854010874cd68289e3ca203399d5c149287167bca0b67f9c5677f0ee22eb8
+Actual: 86f228a5f05e2c3a69308bdbfc77141019d3077c28f3ca99a99dbe0a3172f1ba
+Archive: /Library/Caches/Homebrew/cmake--patch-147854010874cd68289e3ca203399d5c149287167bca0b67f9c5677f0ee22eb8.git;a=commitdiff_plain;h=2ecf168f
+To retry an incomplete download, remove the file above.
+  ```
