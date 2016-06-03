@@ -26,7 +26,7 @@
 ### 工具使用
 * HomeBrew 
   * brew install mysql
-  ```JAVA
+  ```
   Error: SHA256 mismatch
 Expected: 147854010874cd68289e3ca203399d5c149287167bca0b67f9c5677f0ee22eb8
 Actual: 86f228a5f05e2c3a69308bdbfc77141019d3077c28f3ca99a99dbe0a3172f1ba
