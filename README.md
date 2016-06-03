@@ -33,3 +33,11 @@ Actual: 86f228a5f05e2c3a69308bdbfc77141019d3077c28f3ca99a99dbe0a3172f1ba
 Archive: /Library/Caches/Homebrew/cmake--patch-147854010874cd68289e3ca203399d5c149287167bca0b67f9c5677f0ee22eb8.git;a=commitdiff_plain;h=2ecf168f
 To retry an incomplete download, remove the file above.
   ```
+  解决方案：brew  doctor
+            brew update 
+          ```
+          /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': cannot load such file -- mach (LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /usr/local/Library/Homebrew/extend/pathname.rb:2:in `<top (required)>'
+          ```
+   
